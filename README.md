@@ -2,7 +2,7 @@
 
 ### Goal
   
--  copy `1.png` and rename to `4.png`
+-  copy and rename `1.png` to `4.png`
 -  resize `4.png` to `120x120`
 -  do nondestructive compress for all images
 
