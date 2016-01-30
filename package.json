@@ -1,6 +1,6 @@
 {
-  "name": "gulpTask",
-  "version": "0.0.1",
+  "name": "imagemin",
+  "version": "0.1.0",
   "description": "",
   "dependencies": {
     "gulp": "^3.8.11",
